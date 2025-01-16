@@ -1,5 +1,11 @@
 # Instalación de QRCreator
 
+Para acceder al contenido de esta aplicación, clone este repositorio en su almacenamiento local. Para ello, abra su terminal de comandos e inserte este comando:
+
+```console
+git clone https://github.com/samugd17/variety
+```
+
 ### Linux
 
 Para los usuarios de linux, basta con disponer de Python en su sistema y haber instalado la dependencia de [``qrcode``](https://pypi.org/project/qrcode/).
@@ -10,7 +16,7 @@ Esto lo haremos mediante el siguiente comando:
 pip install "qrcode[pil]"
 ```
 
-Una vez hecho esto, ya solo queda ejecutar la aplicación con Python:
+Una vez hecho esto, ya solo queda ejecutar el script con Python:
 
 ```console
 python qr.py
@@ -20,7 +26,7 @@ python qr.py
 
 Para los usuarios de Windows, he convertido el código Python en una aplicación `.exe`, la cual ejecuta el script abriendo automáticamente la consola de comandos del sistema y pidiendo todos los datos necesarios para la generación del código QR. Éste, creará la imagen en la misma carpeta en la que ha sido ejecutado, dando seguidamente, la opción de repetir el proceso o de finalizar el programa.
 
-![WinShell](../img/qr_creator_windows.png)
+![WinShell](/QRCreator/img/qr_creator_windows.png)
 
 Si tienen instalado Python en su sistema, también pueden descargarse el archivo `.py` y ejecutarlo directamente con el propio Python.
 

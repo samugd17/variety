@@ -8,12 +8,12 @@ In this way, you will only have to consult the data once, create the image and p
 
 >_The script will create the image in the same directory from which it was executed_.
 
-- [Installation guide](../docs/English/installation.md)
+- [Installation guide](/docs/english/qr_creator_installation.md)
 
 
 <div align="center">
 
-![LinkedIn](../docs/img/qr_linkedin.png)
+![LinkedIn](/QRCreator/img/qr_linkedin.png)
 
 </div>
 
@@ -25,4 +25,4 @@ De esta forma, sólo deberás consultar los datos una vez, crear la imagen e imp
 
 >_El script creará la imagen en el mismo directorio desde el que se ha ejecutado._
 
-- [Guía de instalación](../docs/Español/instalación.md)
+- [Guía de instalación](/docs/español/qr_creator_instalación.md)
